@@ -2,11 +2,25 @@
 ## Author : Ruhi Dongre
 ------
 
-It was a *lovely* course on **Unix workbench**
+### Geography
 
-u can find the course [here](https://www.coursera.org/learn/unix/supplement)
+live in mumbai ,Maharashtra, India
 
--------
+----
 
--i no have `no image`
--i no have `deep md skills`
+### Reading
+
+```
+1. *Pride and Prejudice* by Austen
+2. *Kite runner* by Khaled Hosseini
+3. *Kingdom of Ash* by SJM
+```
+
+---
+
+### Food
+
+- Dark Chocolates
+- Anything Potatoes
+- **Chai**
+
